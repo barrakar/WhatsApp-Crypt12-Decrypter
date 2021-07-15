@@ -1,0 +1,35 @@
+01:54:10 SparrowAnalytics[ (SparrowAnalytics.java:43)#init ] init sdk code is 0
+01:54:10 SparrowAnalytics[ (SparrowAnalytics.java:58)#collectBaseInfo ] base_info trackId--UA-Wutsapper_Android--pid--7758--pver--2.6.4.278--tzone---6--ip--10.0.0.2--lang--es--os_name--motorola--os_ver--8.0.0--os_bit--0--os_lang--es--install_time--0
+01:54:10 SparrowAnalytics[ (SparrowAnalytics.java:65)#collectBaseInfo ] base_info code is 0
+01:54:10 SparrowAnalytics[ (SparrowAnalytics.java:88)#collectExperience ] data_experience: code is 0--type--Launch--action--App_Authorize--properties--{"Android_Device_Model":"moto e5 plus","Android_Device_Brand":"motorola","Android_Device_System_Version":"8.0.0","Android_Device_Capacity":"11 GB","Android_Device_Remaining_Capacity":"472.21 MB","Android_Device_Language":"es"}
+01:54:10 SparrowAnalytics[ (SparrowAnalytics.java:88)#collectExperience ] data_experience: code is 0--type--Launch--action--App_Open--properties--{"Open_Type":"First_Open"}
+01:54:12 SparrowAnalytics[ (SparrowAnalytics.java:88)#collectExperience ] data_experience: code is 0--type--Home_Page--action--Click_Start--properties--{"0":"0"}
+01:54:14 KLog[ (MyApplication.kt:90)#onConversionDataSuccess ] conversion_attribute:  install_time = 2021-07-05 06:54:13.119
+01:54:14 KLog[ (MyApplication.kt:90)#onConversionDataSuccess ] conversion_attribute:  af_status = Organic
+01:54:14 KLog[ (MyApplication.kt:90)#onConversionDataSuccess ] conversion_attribute:  af_message = organic install
+01:54:14 KLog[ (MyApplication.kt:90)#onConversionDataSuccess ] conversion_attribute:  is_first_launch = true
+01:54:34 SparrowAnalytics[ (SparrowAnalytics.java:88)#collectExperience ] data_experience: code is 0--type--Home_Page--action--Click_Home_Start--properties--{"0":"0"}
+01:54:40 KLog[ (GuideActivity.kt:37)#fixWutsappSize ] fileSize--:0--Sdcard Size--:507269120
+01:54:40 SparrowAnalytics[ (SparrowAnalytics.java:88)#collectExperience ] data_experience: code is 0--type--Backup_WhatsApp--action--Backup_Completed_Size--properties--{"WhatsApp_Backup_Size":"0 KB"}
+01:54:49 SparrowAnalytics[ (SparrowAnalytics.java:88)#collectExperience ] data_experience: code is 0--type--Backup_WhatsApp--action--Backup_Completed_ExternalSD--properties--{"If_External_SD":"No"}
+01:54:49 createDir[ (FileUtils.java:618)#createDir ] createDir: 创建目录/sdcard/WhatsApp/失败，目标目录已经存在
+01:54:49 createDir[ (FileUtils.java:626)#createDir ] createDir: 创建目录/sdcard/wondershare/whutsapper/parsetemp/Databases/成功！
+01:54:49 createDir[ (FileUtils.java:626)#createDir ] createDir: 创建目录/sdcard/wondershare/whutsapper/backup/成功！
+01:54:49 createDir[ (FileUtils.java:626)#createDir ] createDir: 创建目录/sdcard/wondershare/whutsapper_log/connection/成功！
+01:54:49 saveConnLogPath[ (FileUtils.java:908)#saveConnLogPath ] saveConnLogPath: true
+01:54:49 listFilesTest[ (FileUtils.java:709)#getAllDirectory ] oldDirectory--getWutsRealFilePath: [/storage/emulated/0/WhatsApp/Databases/msgstore-2021-06-30.1.db.crypt14, /storage/emulated/0/WhatsApp/Databases/msgstore-2021-07-01.1.db.crypt14, /storage/emulated/0/WhatsApp/Databases/msgstore-2021-07-03.1.db.crypt14, /storage/emulated/0/WhatsApp/Databases/msgstore-2021-06-28.1.db.crypt14, /storage/emulated/0/WhatsApp/Databases/msgstore-2021-06-29.1.db.crypt14]
+01:54:49 GuideActivityTAG[ (GuideActivity.kt:117)#onSubmit ] onSubmit: filesAllName--[/storage/emulated/0/WhatsApp/Databases/msgstore-2021-06-30.1.db.crypt14, /storage/emulated/0/WhatsApp/Databases/msgstore-2021-07-01.1.db.crypt14, /storage/emulated/0/WhatsApp/Databases/msgstore-2021-07-03.1.db.crypt14, /storage/emulated/0/WhatsApp/Databases/msgstore-2021-06-28.1.db.crypt14, /storage/emulated/0/WhatsApp/Databases/msgstore-2021-06-29.1.db.crypt14]
+01:54:49 GuideActivityTAG[ (GuideActivity.kt:128)#onSubmit ] onSubmit: contains db.crypt14
+01:54:49 GuideActivityTAG[ (GuideActivity.kt:128)#onSubmit ] onSubmit: contains db.crypt14
+01:54:49 GuideActivityTAG[ (GuideActivity.kt:128)#onSubmit ] onSubmit: contains db.crypt14
+01:54:49 GuideActivityTAG[ (GuideActivity.kt:128)#onSubmit ] onSubmit: contains db.crypt14
+01:54:49 GuideActivityTAG[ (GuideActivity.kt:128)#onSubmit ] onSubmit: contains db.crypt14
+01:54:49 GuideActivityTAG[ (GuideActivity.kt:225)#onSubmit ] onSubmit: has only Crypt14
+01:54:49 SparrowAnalytics[ (SparrowAnalytics.java:88)#collectExperience ] data_experience: code is 0--type--WhatsApp_Path--action--WhatsApp_Path--properties--{"Crypt_Path":"Crypt14"}
+01:54:49 saveWutsFilePath[ (SaveUtils.java:538)#saveWutsFilePath ] saveWutsFilePath: /storage/emulated/0/WhatsApp/Databases/msgstore.db.crypt14
+01:54:49 saveWutsFileRootPath[ (SaveUtils.java:548)#saveWutsFileRootPath ] saveWutsFileRootPath: /storage/emulated/0/WhatsApp/
+01:54:49 setIsCrypt12[ (SaveUtils.java:557)#setIsCrypt12 ] setIsCrypt12: false
+01:54:49 GuideActivityTAG[ (GuideActivity.kt:341)#onSubmit ] onSubmit: showNoWhatsApp
+01:54:49 SparrowAnalytics[ (SparrowAnalytics.java:88)#collectExperience ] data_experience: code is 0--type--Backup_WhatsApp--action--Click_Completed--properties--{"If_Have_Backup":"No"}
+01:54:50 scUtil[ (Util.java:790)#launchAPK ] launchAPK: income
+01:54:50 scUtil[ (Util.java:792)#launchAPK ] launchAPK: has installed whatsapp
